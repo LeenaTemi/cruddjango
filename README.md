@@ -1,0 +1,2 @@
+# cruddjango
+crud
